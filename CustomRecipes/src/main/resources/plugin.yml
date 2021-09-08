@@ -1,6 +1,0 @@
-name: CustomRecipes
-version: ${project.version}
-main: de.matteo.recipes.customrecipes.CustomRecipes
-api-version: 1.16
-authors: [ Matteo ]
-description: Custom Minecraft Rezepte
